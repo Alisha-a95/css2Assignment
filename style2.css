@@ -1,0 +1,46 @@
+ul{ list-style: none;
+    margin: 0;
+    padding: 0; overflow: hidden;background-color: clear;
+    position: fixed;top: 0;width: 100%;}
+    li a {float: left;
+    font-size: larger;font-family: 'Rubik Bubbles', cursive;
+    text-align: center;padding: 14px 16px; text-decoration: none;
+    font-size: 30px;
+    }
+    
+    a {display: block;
+    padding: 20px;
+    background-color:clear;}
+    
+    
+    body {background-color: rgb(255, 244, 230);
+     font-family: 'Caveat', cursive; font-size: 20px;}
+    
+     h4{font-family: 'Rubik Bubbles', cursive; font-size: 40px;
+        animation: welcome;
+        animation-duration: 5s;}
+    
+    
+    
+    
+    
+     li a:hover{background-color:white;}
+     
+     img{ width:38%; length: 20%}
+
+
+     .button1{ background-color: white;
+    border: none;
+color: black; text-align: center; text-decoration: solid;
+display: inline-block;font-family: 'Rubik Bubbles', cursive; }
+button{font-size: 40px;}
+button{box-shadow: 0 8px 16px 0;}
+
+footer{ display: block;padding: 15px;text-align: left; font-size: 25px;
+    background-color: grey; text-decoration-color: black;
+    }
+
+    a{color: black;}
+    h4{background-color: grey;}
+    @keyframes recipes{from{margin-left: 100%;}to{margin-top: 0%;}}
+
